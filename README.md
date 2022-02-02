@@ -1,2 +1,3 @@
 # Tutorial-Repo
-A repository for practicing github. 
+
+A repository for learning, testing and implementing git and python. 
